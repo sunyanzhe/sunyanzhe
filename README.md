@@ -1,6 +1,6 @@
 ## 最近在干嘛
 
-<img  align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunyanzhe&layout=compact&hide_border=true&theme=material-palenight" />
+<img  align="right" height="130" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunyanzhe&layout=compact&hide_border=true&theme=material-palenight" />
 
 * 👀 学习TypeScript
 * 📖 写关于Vue的文章
