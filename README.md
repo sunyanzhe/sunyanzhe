@@ -1,6 +1,6 @@
 ## 最近在干嘛
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=sunyanzhe&show_icons=true&hide_border=true&theme=material-palenight" />
+<img  align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunyanzhe&layout=compact&hide_border=true&theme=material-palenight" />
 
 * 👀 学习TypeScript
 * 📖 写关于Vue的文章
@@ -9,7 +9,7 @@
 ## 🤩 我
 
 
-<img  align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunyanzhe&layout=compact&hide_border=true&theme=material-palenight" />
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=sunyanzhe&show_icons=true&hide_border=true&theme=material-palenight" />
 
 - 我是一个不知名前端小开发 🏆
 - 熟悉Vue, TypeScript, Sass... ☕️
